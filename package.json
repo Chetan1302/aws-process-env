@@ -1,6 +1,6 @@
 {
   "name": "aws-process-env",
-  "version": "1.3.5",
+  "version": "1.3.7",
   "description": "This NPM module helps you fetch data from AWS parameter store and assign it to Process.env variable",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Chetan1302/aws-process-env"
-},
+  },
   "keywords": [
     "aws",
     "parameter store",
@@ -20,6 +20,6 @@
   "author": "Chetan Raskar",
   "license": "BSD-3",
   "dependencies": {
-    "aws-sdk": "^2.802.0"
+    "aws-sdk": "^2.1002.0"
   }
 }
